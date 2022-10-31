@@ -17,7 +17,7 @@ The Geoinformation Systems course is a full term overview of selected topics in 
 
 ## Didactical concept
 
-LV-19-d19-006 is structured as a sequential but *not* necessary linear series of [modules](/LV-19-d19-006-22/modules), each taking approximately two weeks to complete. Each module has the following internal structure:
+LV-19-d19-006-22 is structured as a sequential but *not* necessary linear series of [modules](/LV-19-d19-006-22/modules), each taking approximately two weeks to complete. Each module has the following internal structure:
 
   * [Prerequisites](/LV-19-d19-006-22/prerequisites) - basic skills you should have prior the module/course start.
   * [Learning Outcomes](/LV-19-d19-006-22/outcomes) - the major goals for the module.

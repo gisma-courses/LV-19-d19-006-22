@@ -1,0 +1,32 @@
+# MOREA CONFIGURATION FILE
+# See https://morea-framework.github.io/docs/instructors/config-yml
+
+
+# SITE SPECIFIC: The following fields are typically changed for each site
+name: LV-19-d19-006
+baseurl: /LV-19-d19-006
+morea_theme: cerulean-green
+timezone: Europe/Berlin
+morea_navbar_items:
+  - Prerequisites
+  - Modules
+  - Outcomes
+  - Readings
+  - Experiences
+  - Assessments
+  - Schedule
+logger_factory:
+  Morea: error
+
+
+# INTERNAL CONFIGURATION: The following fields are not normally edited by users.
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  input: GFM
+  syntax_highlighter: rouge
+mathjax: true
+exclude: [morea]
+keep_files: [schedule/schedule-info.js]
+plugins:
+  - jekyll-gist

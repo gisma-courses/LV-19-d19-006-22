@@ -1,4 +1,4 @@
-![Course Header](https://gisma-courses.github.io/LV-19-d19-006/morea/header_gis.jpg "Image source: C.Reudenbach")
+![Course Header](https://gisma-courses.github.io/LV-19-d19-006-22/morea/header_gis.jpg "Image source: C.Reudenbach")
 
 
 

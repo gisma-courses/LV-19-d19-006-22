@@ -5,7 +5,7 @@ morea_type: home
 published: true
 ---
 
-## Welcome to LV-19-d19-006 - GIS, Winter 2022
+## Welcome to LV-19-d19-006-22 - GIS, Winter 2022
 
 
 
@@ -17,17 +17,17 @@ The Geoinformation Systems course is a full term overview of selected topics in 
 
 ## Didactical concept
 
-LV-19-d19-006 is structured as a sequential but *not* necessary linear series of [modules](/LV-19-d19-006/modules), each taking approximately two weeks to complete. Each module has the following internal structure:
+LV-19-d19-006 is structured as a sequential but *not* necessary linear series of [modules](/LV-19-d19-006-22/modules), each taking approximately two weeks to complete. Each module has the following internal structure:
 
-  * [Prerequisites](/LV-19-d19-006/prerequisites) - basic skills you should have prior the module/course start.
-  * [Learning Outcomes](/LV-19-d19-006//outcomes) - the major goals for the module.
-  * [Readings & Resources](/LV-19-d19-006/readings), providing background material.
-  * [Experiences](/LV-19-d19-006/experiences) -a structured set of challenges enabling you to acquire mastery of material.
-  * [Assessments](/LV-19-d19-006/assessments) - performance check.
+  * [Prerequisites](/LV-19-d19-006-22/prerequisites) - basic skills you should have prior the module/course start.
+  * [Learning Outcomes](/LV-19-d19-006-22/outcomes) - the major goals for the module.
+  * [Readings & Resources](/LV-19-d19-006-22/readings), providing background material.
+  * [Experiences](/LV-19-d19-006-22/experiences) -a structured set of challenges enabling you to acquire mastery of material.
+  * [Assessments](/LV-19-d19-006-22/assessments) - performance check.
 
 
 ## Instructor
 
-[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach), Geoinformatics Working Group (GISMA) of the Department of Geography at the [University of Marburg ](https://www.uni-marburg.de/en). The course content is developed and hosted on [Github](https://github.com/gisma-courses/LV-19-d19-006).
+[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach), Geoinformatics Working Group (GISMA) of the Department of Geography at the [University of Marburg ](https://www.uni-marburg.de/en). The course content is developed and hosted on [Github](https://github.com/gisma-courses/LV-19-d19-006-22).
 
 The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of the University of Marburg. 

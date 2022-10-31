@@ -28,7 +28,7 @@ morea_labels:
  
   
   {% include note.html content="
-  You will find backgounds under the module [Reproducible Research](https://gisma-courses.github.io/LV-19-d19-006/modules/gis-reproducible-research/) that will guide you in the creation of scientific research. <br>
+  You will find backgounds under the module [Reproducible Research](https://gisma-courses.github.io/LV-19-d19-006-22/modules/gis-reproducible-research/) that will guide you in the creation of scientific research. <br>
   For this task please follow the instructions you will find at [Academic wiriting made easy](https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-academic-websites/). " %}
   
 

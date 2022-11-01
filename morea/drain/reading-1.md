@@ -19,7 +19,7 @@ At the same time, dealing with the concepts and tools is a very good and well-fo
 What is actually the problem? Let's read up...
 
 
-* [Water in the Landscape: A Review of Contemporary Flow Routing Algorithms](https://link.springer.com/chapter/10.1007/978-3-540-77800-4_12)
+* [Water in the Landscape: A Review of Contemporary Flow Routing Algorithms](https://link.springer.com/chapter/10.1007/978-3-540-77800-4_12) (You will find a copy in Ilias)
 * [Where is Helvellyn?](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/j.0020-2754.2004.00117.x)
 * [Landform-oriented flowrouting algorithm for the dual-structure loess terrain based on digital elevation models](https://www.researchgate.net/profile/Liyang-Xiong/publication/260306312/)
 * [A Review of Digital Terrain Modeling](https://hal.archives-ouvertes.fr/hal-02097510/file/A%20Review%20of%20Digital%20Terrain%20Modeling.pdf)
